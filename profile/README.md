@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Upright</h1>
+<h1><a href="https://www.upright.bio">Upright</a></h1>
 <br>
 <p>An AI-powered web app for real-time posture monitoring and improvement.</p>
 <br>
